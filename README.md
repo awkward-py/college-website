@@ -7,7 +7,6 @@ Welcome to the GitHub repository for the Government Polytechnic Kashipur website
 - [Introduction](#introduction)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
