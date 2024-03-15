@@ -37,7 +37,7 @@ We welcome contributions to improve the GP Kashipur website. Whether it's fixing
 5. **Push Changes**: Push your changes to your forked repository.
 6. **Create a Pull Request**: Submit a pull request to the main repository, explaining the changes you've made.
 
-Our team will review your pull request and provide feedback. Once approved, your changes will be merged into the main branch.
+We will review your pull request and provide feedback. Once approved, your changes will be merged into the main branch.
 
 ---
 
